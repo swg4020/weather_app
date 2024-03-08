@@ -17,13 +17,6 @@ const Container = styled.div`
   );
   padding: 10px 30px;
   box-sizing: border-box;
-
-  h1 {
-    font-size: 50px;
-    color: white;
-    display: flex;
-    justify-content: center;
-  }
 `;
 
 export const Layout = ({children}) => {
